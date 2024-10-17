@@ -3,9 +3,9 @@ A modern and fully responsive Android authentication UI built with Jetpack Compo
 # Screenshots
 https://github.com/user-attachments/assets/28a076b6-fe76-4145-b1cb-caf9d0d9b2d6
 # Features
-Modern UI: Built with Jetpack Compose, following Material Design principles. 
-API Integration: Uses Retrofit to handle network requests for signup and login. 
-Session Management: Implements SharedPreferences for token storage. Navigation: Includes navigation between Signup and Login screens.
+- Modern UI: Built with Jetpack Compose, following Material Design principles. 
+- API Integration: Uses Retrofit to handle network requests for signup and login. 
+- Session Management: Implements SharedPreferences for token storage. Navigation: Includes navigation between Signup and Login screens.
 # Future Enhancements
-Error Handling: Add detailed error handling for network failures. 
-Profile Screen: Implement a user profile screen using the saved token
+- Error Handling: Add detailed error handling for network failures. 
+- Profile Screen: Implement a user profile screen using the saved token
