@@ -1,7 +1,7 @@
 # Android-Auth-Screens
 A modern and fully responsive Android authentication UI built with Jetpack Compose. This project includes both Signup and Login screens, designed to be seamlessly integrated with any backend API. It uses Retrofit for network requests and SharedPreferences for managing user sessions. following best practices for mobile development. Easily customizable with API integration.
 # Screenshots
-<p align="center">
+<p align="right">
   <video src="https://github.com/user-attachments/assets/28a076b6-fe76-4145-b1cb-caf9d0d9b2d6" controls="controls" style="max-width: 100%;">
 </video>
 </p>
