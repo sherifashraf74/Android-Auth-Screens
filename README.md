@@ -6,10 +6,10 @@ API Integration: Uses Retrofit to handle network requests for signup and login.
 Session Management: Implements SharedPreferences for token storage.
 Navigation: Includes navigation between Signup and Login screens.
 Customizable: UI components can be easily customized to fit different design needs.
-#Screenshots
+# Screenshots
 
 
 
-#Future Enhancements
+# Future Enhancements
 Error Handling: Add detailed error handling for network failures.
 Profile Screen: Implement a user profile screen using the saved token.
