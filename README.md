@@ -7,8 +7,7 @@ Session Management: Implements SharedPreferences for token storage.
 Navigation: Includes navigation between Signup and Login screens.
 Customizable: UI components can be easily customized to fit different design needs.
 # Screenshots
-
-
+https://github.com/user-attachments/assets/8bf94fb8-bd85-49b4-907b-86573eabb309
 
 # Future Enhancements
 Error Handling: Add detailed error handling for network failures.
